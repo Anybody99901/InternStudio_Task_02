@@ -1,4 +1,4 @@
-🎬 Sentiment Analysis on Movie Reviews
+# 🎬 Sentiment Analysis on Movie Reviews
 
 This project analyzes movie reviews and classifies them as positive or negative using Natural Language Processing (NLP) and Machine Learning.
 
